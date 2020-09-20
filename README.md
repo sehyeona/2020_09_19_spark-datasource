@@ -23,8 +23,22 @@ cd $HOME/hive
 cp $HOME/hive/conf/hive-site.xml $HOME/spark/conf/
 ./bin/hive --service metastore &
 ```
+### 3. git clone 
+인스턴스가 정상적으로 작동하면 
+```
+ git clone (git repo 주소)
+```
+를 통해 과제에 필요한 파일을 가져옵니다.
 
-### 3. 데이터 다운로드
+### 4-1. 데이터 다운로드
 ```
 bash download.sh
 ```
+data 폴더 안에 exhibitions.csv 와 nations.csv가 다운받아집니다.
+### 4-2. pyarrow 다운로드
+```
+pip install pyarrow
+```
+를 통해 과제에서 사용하게 될 apache arrow를 다운 받아줍니다
+
+### 5. 과제는 ipynb 파일을 참고해주세요~ 파이팅!

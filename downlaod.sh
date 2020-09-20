@@ -1,4 +1,4 @@
-URL=https://www.dropbox.com/s/g9bg011ky7kp1mg/artfacts_exhibitons.zip?dl=0
+URL=https://www.dropbox.com/s/ou74oopp8hs9se7/exhibition%2Cnations.zip?dl=0
 ZIP_FILE=./data/artist_exhibition.zip
 mkdir -p ./data/
 sudo apt-get install unzip
