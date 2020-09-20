@@ -1,5 +1,8 @@
 # 2020_09_19_spark-datasource
 
+## 과제1 : apache arrow 간단하게 정리
+## 과제2 : assignments.ipynb 를 참고하여 nations.csv를 parquet 파일로 변환 후 저장되어 있는 모습 캡처
+
 ### 1. 하둡실행
 우분투 홈에서 다음과 같은 명령어로 하둡 namenode, datanode, yarn, secondary name node 를 할성화 해줍니다.
 ```
