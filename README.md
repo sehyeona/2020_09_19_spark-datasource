@@ -35,7 +35,7 @@ cp $HOME/hive/conf/hive-site.xml $HOME/spark/conf/
 
 ### 4-1. 데이터 다운로드
 ```
-bash download.sh
+bash downlaod.sh
 ```
 data 폴더 안에 exhibitions.csv 와 nations.csv가 다운받아집니다.
 ### 4-2. pyarrow 다운로드
